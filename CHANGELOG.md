@@ -1,5 +1,21 @@
 # Changelog
 
+## 1.17.0 (2026-01-25)
+
+Full Changelog: [v1.16.3...v1.17.0](https://github.com/anthropics/anthropic-sdk-ruby/compare/v1.16.3...v1.17.0)
+
+### Features
+
+* **api:** migrate sending message format in output_config rather than output_format ([13ac36e](https://github.com/anthropics/anthropic-sdk-ruby/commit/13ac36e97e8898d46b802c540b7dba7272247108))
+
+
+### Chores
+
+* add cgi gem as explicit dependency ([b9ef072](https://github.com/anthropics/anthropic-sdk-ruby/commit/b9ef072be4d8ecd4f12e90403183b0ced5cb360f))
+* **client:** mark claude-3-5-haiku as deprecated ([2ed73fd](https://github.com/anthropics/anthropic-sdk-ruby/commit/2ed73fde07fa480ff55d67b47442deebb76bc1e5))
+* **internal:** update `actions/checkout` version ([2f82126](https://github.com/anthropics/anthropic-sdk-ruby/commit/2f8212603e7a6b7a96afaa3cfd19a55a0853f49c))
+* **internal:** use different example values for some enums ([13d8b68](https://github.com/anthropics/anthropic-sdk-ruby/commit/13d8b68d290c11497faed22e2eda1778187bf2ec))
+
 ## 1.16.3 (2026-01-05)
 
 Full Changelog: [v1.16.2...v1.16.3](https://github.com/anthropics/anthropic-sdk-ruby/compare/v1.16.2...v1.16.3)
